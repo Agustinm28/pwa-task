@@ -1,0 +1,8 @@
+{
+  "name": "PWA-Task",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite",
+  "id": "0f0c0099"
+}
